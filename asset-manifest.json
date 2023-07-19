@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdfium-react/static/css/main.78a72b9f.css",
+    "main.js": "/pdfium-react/static/js/main.9723a416.js",
+    "index.html": "/pdfium-react/index.html",
+    "main.78a72b9f.css.map": "/pdfium-react/static/css/main.78a72b9f.css.map",
+    "main.9723a416.js.map": "/pdfium-react/static/js/main.9723a416.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78a72b9f.css",
+    "static/js/main.9723a416.js"
+  ]
+}
